@@ -1,0 +1,3 @@
+[ubuntu1]
+159.203.59.61 ansible_port=22 ansible_user=root
+
