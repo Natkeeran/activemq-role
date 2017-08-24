@@ -24,7 +24,7 @@
 - name: Add activemq service to start up
   shell: 'update-rc.d activemq defaults'
 
-- name: Start ActiveMQ service
+- name: Start activeMQ service
   service:
     state: started
     name: activemq
